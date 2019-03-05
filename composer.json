@@ -1,0 +1,13 @@
+{
+    "name": "kernfruit/cherry-framework-bedrock-fix",
+    "type": "wordpress-plugin",
+    "private": true,
+    "license": "MIT",
+    "description": "Fixes the base_url function of the Cherry framework to work with Bedrock",
+    "authors": [
+        {
+            "name": "Caspar Kirsch",
+            "homepage": "https://github.com/kernfruit"
+        }
+    ],
+}
