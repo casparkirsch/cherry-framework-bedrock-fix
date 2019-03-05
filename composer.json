@@ -1,0 +1,6 @@
+{
+    "name": "casparkirsch/cherry-framework-bedrock-fix",
+    "type": "wordpress-plugin",
+    "private": true,
+    "description": "Fixes the base_url function of the Cherry framework to work with Bedrock",
+}
